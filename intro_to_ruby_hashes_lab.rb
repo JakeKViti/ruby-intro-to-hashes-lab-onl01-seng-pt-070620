@@ -10,11 +10,8 @@ def actor
 end
 
 def monopoly
-  monopoly =  {
-
-}
-
-return monopoly
+  monopoly =  {}
+  return monopoly
 end
 
 def monopoly_with_second_tier
